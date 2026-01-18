@@ -1,0 +1,7 @@
+AAAA::pippo::Primo post::Ciao a tutti, sono Pippo, questo è il primo post!
+AAAB::pluto::Secondo post::Questo è il secondo post del BBS
+AAAC::paperino::Terzo Post::Questo è il terzo post del BBS!
+AAAD::pippo::Quarto post::Ecco a voi un altro post!
+AAAE::pippo::Mattina::M'illumino d'Immenso (Ungaretti)
+AAAF::pippo::Il tempo::fuori oggi piove
+AAAG::paperino::Estate::In estate si va al mare
